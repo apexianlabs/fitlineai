@@ -1,4 +1,5 @@
 export const metadata = {
+  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
   title: 'FitLine AI — AI bike fitting — get your perfect position in minutes',
   description: 'AI bike fitting — get your perfect position in minutes',
 }
